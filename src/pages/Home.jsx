@@ -1,6 +1,6 @@
 import 'animate.css';
 
-import logo from '../assets/24118357.jpg'
+import logo from '../assets/24118357-removebg.png'
 
 const Home = () => {
     return (
@@ -10,7 +10,7 @@ const Home = () => {
                     FRONT-END <br />DEVELOPER
                 </div>
                 <div className="home-image animate__animated animate__flip">
-                    <img src={logo} alt="foto" width='100px' />
+                    <img src={logo} alt="foto" width='150px' />
                 </div>
                 <div className="home-2 animate__animated animate__backInRight">
                     Hi! I'm Muhamad Rafli

@@ -47,6 +47,13 @@
 
 .about-stepper {
   color: white;
+  list-style: none;
+}
+
+.about-stepper_line {
+  border-left: 1px solid white;
+  padding: 5px;
+  margin: 5px;
 }
 
 .about-list {

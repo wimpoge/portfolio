@@ -8,6 +8,8 @@
 # testing
 /coverage
 
+# development
+.env
 
 # misc
 .DS_Store

@@ -31,7 +31,7 @@ const Contact = () => {
                             Contact
                         </Typography>
                         <Typography variant="body2" color="textSecondary" component="p" gutterBottom>
-                            Fill up the form and our team will get back to you within 24 hours.
+                          Lengkapi formulir dan akan saya balas secepat mungkin
                         </Typography>
                         <form ref={form} onSubmit={sendEmail}>
                             <Grid container spacing={1}>
